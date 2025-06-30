@@ -7,7 +7,7 @@ Here, I solve and organize LeetCode problems by topic using **Java** to build a 
 
 This repo is organized by common DSA topics. Each folder contains Java solutions to relevant LeetCode problems:
 
-📁 Arrays
+📁 Arrays\n
 📁 BFS
 📁 Binary Search
 📁 DP (Dynamic Programming)
