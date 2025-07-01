@@ -31,7 +31,7 @@ This repo is organized by common DSA topics. Each folder contains Java solutions
 
 ## 🛠️ Tech Stack
 
-- **Language**: Java  
+- **Language**: Java 21.0
 - **Platform**: [LeetCode](https://leetcode.com/)  
 - **IDE**: IntelliJ IDEA / VSCode  
 
