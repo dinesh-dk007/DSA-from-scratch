@@ -36,7 +36,7 @@ This repo is organized by common DSA topics. Each folder contains Java solutions
 ## 🛠️ Tech Stack
 
 - **Language**: Java 21.0
-- **Platform**: [LeetCode](https://leetcode.com/)  
+- **Platform**: [LeetCode](https://leetcode.com/) , [GeeksforGeeks](https://www.geeksforgeeks.org/problem-of-the-day?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header)
 - **IDE**: IntelliJ IDEA / VSCode  
 
 ## 📈 Progress
